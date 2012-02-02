@@ -1,0 +1,14 @@
+PITS - Personal Information Tracker/Spider
+
+Is a program that will spider white-page websites and gather
+information on a number of individuals and then search myspace,
+facebook, and other common social networking sites to gather more
+information about an individual including but not limited to:
++Employer
++Relationships
++Geographical Location
++Etc...
+
+Development Notes
+-----------------
+There are currently no development notes.
